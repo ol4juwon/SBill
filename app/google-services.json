@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "329133236600",
+    "firebase_url": "https://sbill-4e607.firebaseio.com",
+    "project_id": "sbill-4e607",
+    "storage_bucket": "sbill-4e607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329133236600:android:01cc1a7e3ba2730213a88d",
+        "android_client_info": {
+          "package_name": "com.example.sbill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329133236600-t5tcp00me2rm0ihfj3kdc2jof73rnutd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMXNVbhcgATR04ifoIaE0iy8ChkJmOouM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329133236600-t5tcp00me2rm0ihfj3kdc2jof73rnutd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
